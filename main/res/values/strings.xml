@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Kon2</string>
+    <string name="player1NamePrompt">Enter Player 1\'s Name</string>
+    <string name="player2NamePrompt">Enter Player 2\'s Name</string>
+    <string name="startButton">Start</string>
+
+    <string name="title_activity_game">GameActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="turnPrompt"><![CDATA[Turn ->>>]]></string>
+    <string name="gameOverString">GAME OVER!</string>
+    <string name="congrats" translatable="false">"Congrats, "</string>
+</resources>
